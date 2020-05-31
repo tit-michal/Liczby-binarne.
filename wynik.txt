@@ -1,0 +1,2 @@
+Zadanie 1: Ilosc liczb, ktora ma w swoim zapisie wiecej zer niz jedynek: 422.
+Zadanie 2: Ilosc liczb, ktore sa podzielne przez 2: 500. Ilosc liczb, ktore sa podzielne przez 8: 123.
